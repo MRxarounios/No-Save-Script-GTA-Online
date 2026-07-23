@@ -10,6 +10,8 @@ Tested & Confirmed Working:
 - Doomsday Heist ❓
 - Original Heists ❓
 
+![Alt text](https://i.imgur.com/1n0Svcu.png)
+
 # How to use it
 Example: Cayo Perico but it's almost the same in every heist.
 NOTE !!!: The script needs timing. You need to find the perfect timing for each heist to activate the script.
